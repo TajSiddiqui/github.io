@@ -16,7 +16,7 @@ Amazon Web Services (AWS) has emerged as a leading cloud service provider, widel
 The objective of this blog is to navigate through the labyrinth of API security on AWS, offering readers an insightful guide on best practices for securing RESTful APIs. From authentication and authorization strategies to encryption, monitoring, and beyond, we aim to equip you with the knowledge and tools necessary to fortify your APIs against the evolving landscape of cyber threats. Whether you're an API developer, a cloud architect, or simply keen on enhancing your API security posture, this guide endeavors to provide valuable insights into making your APIs not just functional, but impervious to compromise.
 
 
-##2. Understanding RESTful APIs and Security Concerns
+## 2. Understanding RESTful APIs and Security Concerns
 
 ### Definition and Significance of RESTful APIs
 
