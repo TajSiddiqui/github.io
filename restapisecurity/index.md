@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My First Blog Post"
+title: "Best Practices for Securing RESTful APIs on AWS"
 date: 2024-02-17
 categories: blog
 ---
